@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for Wallet Watch",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fast-two-sms": "^3.0.0",
+    "fast2sms": "^1.0.3",
+    "helmet": "^7.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.6.0",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.1",
+    "unirest": "^0.6.0",
+    "validator": "^13.11.0"
+  }
+}
