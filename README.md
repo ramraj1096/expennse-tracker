@@ -210,20 +210,4 @@ Start the frontend server
 
     ![Delete Transaction](./screenshots/home-delete.png)
 
-## Contribution
 
-Contributions are welcome! If you find any bugs or want to enhance the app, feel free to open issues or submit pull requests. Please make sure to follow the coding standards and guidelines.
-
-Happy coding! If you have any questions or need assistance, don't hesitate to reach out.
-
-## Designed and Implemented By
-
-### Harsh Bardolia
-
--   [Github](https://github.com/HarshBardolia01)
--   [LinkedIn](https://www.linkedin.com/in/harsh-bardolia-0a0407217/)
-
-### Khushali Vaidya
-
--   [Github](https://github.com/khushalivaidya)
--   [LinkedIn](https://www.linkedin.com/in/khushalivaidya/)
